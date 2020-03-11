@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+}
+
+.menu_container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.menu__logo {
+    padding: 61px 0px 0px 126px;
+}
+
+.menu__list {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Muli', sans-serif;
+    font-size: 18px;
+    line-height: 23px;
+    list-style: none;
+    padding: 61px 125px 0px 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+.menu__projects {
+    padding-right: 29px;
+}
+
+.presentation_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.presentation__stars {
+    font-size: 22px;
+    line-height: 28px;
+    color: #4A4FF2;
+}
+
+.presentation {
+    padding-left: 125px;
+    padding-top: 96px;
+    font-family: Muli;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: bold;
+}
+
+.presentation_quote {
+    padding-right: 198px;
+    padding-top: 290px;
+    font-family: Muli;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    color: #111111;
+    opacity: 0.6;
+}
+
