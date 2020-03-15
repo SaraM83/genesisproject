@@ -1,0 +1,160 @@
+body {
+    margin: 0px;
+}
+
+.menu_container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.menu__logo {
+    padding: 61px 0px 0px 126px;
+    margin-left: 45px;
+}
+
+.menu__list {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Muli', sans-serif;
+    font-size: 18px;
+    line-height: 23px;
+    list-style: none;
+    padding: 40px 100px 0px 0px;
+    margin-right: 45px;
+    font-weight: bold;
+}
+
+.menu__projects {
+    padding-right: 29px;
+}
+
+.content_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 110px 0px 100px 45px;
+    padding-left: 125px;
+}
+
+.project_container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-right: 175px;
+}
+
+#divider {
+    padding-right: 175px;
+}
+
+.project {
+    font-family: Muli;
+    opacity: 0.5;
+    font-size: 18px;
+}
+
+.portfolio {
+    font-family: Muli;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.heading_write {
+    font-family: Muli;
+    font-size: 40px;
+    padding-bottom: 28px;
+}
+
+.content__text {
+    font-family: Muli;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.big_image {
+    padding-left: 170px;
+}
+
+.last_text {
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 170px;
+    padding-top: 45px;
+}
+
+.image_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-right: 149px;
+    padding-left: 167px;
+    padding-top: 45px;
+}
+
+._pink {
+    padding-right: 30px;
+}
+
+._flowers {
+    padding-right: 30px;
+}
+
+.footer {
+    padding-top: 132px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 40px;
+}
+
+.footer_logo {
+    padding-left: 80px;
+}
+
+.footer_nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer_list1 {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    font-family: Muli;
+}
+
+.footer_list2 {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.project_link {
+    padding-right: 30px;
+    padding-left: 400px;
+    font-weight: bold;
+}
+
+.project_contact {
+    font-weight: bold;
+}
+
+.dribble {
+    padding-right: 30px;
+    padding-left: 95px;
+}
+
+.insta {
+    padding-right: 30px;
+}
+
+.path {
+    padding-right: 80px;
+}
